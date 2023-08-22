@@ -1,0 +1,135 @@
+[
+ {
+  "Tipul de proprietate": "Spitale                                                                               ",
+  "Total": 536,
+  "Urban": 486,
+  "Rural": 50
+ },
+ {
+  "Tipul de proprietate": "Dispensare medicale                                                                                                                            ",
+  "Total": 184,
+  "Urban": 179,
+  "Rural": 5
+ },
+ {
+  "Tipul de proprietate": "Cabinete medicale școlare                                                                                                                      ",
+  "Total": 2090,
+  "Urban": 2063,
+  "Rural": 27
+ },
+ {
+  "Tipul de proprietate": "Cabinete independente de medicină generală                                                                                                     ",
+  "Total": 775,
+  "Urban": 658,
+  "Rural": 117
+ },
+ {
+  "Tipul de proprietate": "Cabinete  independente de medicină  de familie                                                                                                 ",
+  "Total": 10444,
+  "Urban": 6296,
+  "Rural": 4148
+ },
+ {
+  "Tipul de proprietate": "Societăți medicale civile                                                                                                                      ",
+  "Total": 284,
+  "Urban": 191,
+  "Rural": 93
+ },
+ {
+  "Tipul de proprietate": "Farmacii                                                                                                                                       ",
+  "Total": 8135,
+  "Urban": 5411,
+  "Rural": 2724
+ },
+ {
+  "Tipul de proprietate": "Puncte de lucru ale farmaciilor și drogherii                                                                                                   ",
+  "Total": 1750,
+  "Urban": 710,
+  "Rural": 1040
+ },
+ {
+  "Tipul de proprietate": "Depozite farmaceutice                                                                                                                          ",
+  "Total": 229,
+  "Urban": 210,
+  "Rural": 19
+ },
+ {
+  "Tipul de proprietate": "Policlinici                                                                                                                                    ",
+  "Total": 79,
+  "Urban": 76,
+  "Rural": 3
+ },
+ {
+  "Tipul de proprietate": "Centre de dializă                                                                                                                              ",
+  "Total": 23,
+  "Urban": 21,
+  "Rural": 2
+ },
+ {
+  "Tipul de proprietate": "Centre medicale de specialitate                                                                                                                ",
+  "Total": 835,
+  "Urban": 822,
+  "Rural": 13
+ },
+ {
+  "Tipul de proprietate": "Cabinete stomatologice școlare                                                                                                                 ",
+  "Total": 481,
+  "Urban": 480,
+  "Rural": 1
+ },
+ {
+  "Tipul de proprietate": "Cabinete stomatologice studențești                                                                                                             ",
+  "Total": 34,
+  "Urban": 34,
+  "Rural": "-"
+ },
+ {
+  "Tipul de proprietate": "Cabinete stomatologice independente                                                                                                            ",
+  "Total": 16341,
+  "Urban": 14003,
+  "Rural": 2338
+ },
+ {
+  "Tipul de proprietate": "Societăți stomatologice civile medicale                                                                                                        ",
+  "Total": 421,
+  "Urban": 347,
+  "Rural": 74
+ },
+ {
+  "Tipul de proprietate": "Cabinete medicale independente de specialitate                                                                                                 ",
+  "Total": 13740,
+  "Urban": 13012,
+  "Rural": 728
+ },
+ {
+  "Tipul de proprietate": "Societăți civile medicale de specialitate                                                                                                      ",
+  "Total": 691,
+  "Urban": 643,
+  "Rural": 48
+ },
+ {
+  "Tipul de proprietate": "Laboratoare medicale                                                                                                                           ",
+  "Total": 4524,
+  "Urban": 4312,
+  "Rural": 212
+ },
+ {
+  "Tipul de proprietate": "Laboratoare de tehnică dentară                                                                                                                 ",
+  "Total": 2258,
+  "Urban": 2158,
+  "Rural": 100
+ },
+ {
+  "Tipul de proprietate": "Unități de ambulanță și SMURD                                                                                        ",
+  "Total": 123,
+  "Urban": 118,
+  "Rural": 5
+ },
+ {
+  "Tipul de proprietate": "Alte tipuri de cabinete medicale                                                                                                               ",
+  "Total": 810,
+  "Urban": 767,
+  "Rural": 43
+ }
+
+]
